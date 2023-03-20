@@ -1,0 +1,23 @@
+Resource 1:
+Author: Github(holblin and Jean-Philippe Zolesio)
+Date: 2 years ago
+URL: https://github.com/testing-library/jest-dom.git
+
+Resource 2:
+Author: npmjs
+Date: 7 years ago
+URL: https://www.npmjs.com/package/lodash.mapvalues
+
+Resource 3:
+Author: npmjs
+Date: 1 month ago
+URL: https://www.npmjs.com/package/redux-actions
+
+Resource 4:
+Author: Simba 14
+Date: January 16, 2018
+URL: https://github.com/Simba14/Bowling-with-React.git
+
+
+
+
